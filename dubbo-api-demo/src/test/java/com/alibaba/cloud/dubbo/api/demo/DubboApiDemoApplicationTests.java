@@ -1,10 +1,10 @@
-package com.alibaba.cloud.demo.aliclouddemo;
+package com.alibaba.cloud.dubbo.api.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AliCloudDemoApplicationTests {
+class DubboApiDemoApplicationTests {
 
     @Test
     void contextLoads() {
