@@ -1,4 +1,4 @@
-package com.alibaba.cloud.demo.aliclouddemo;
+package com.alibaba.cloud.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
