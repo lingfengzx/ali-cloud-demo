@@ -8,6 +8,7 @@ public class AliCloudDemoApplication {
 
     public static void main(String[] args) {
 
+        //测试merge
         SpringApplication.run(AliCloudDemoApplication.class, args);
     }
 
